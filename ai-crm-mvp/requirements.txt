@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+easyocr
+pytesseract
+python-multipart
+pandas
+openai
+streamlit
